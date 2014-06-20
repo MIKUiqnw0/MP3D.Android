@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/browse"
+          android:title="Browse" />
+    <item android:id="@+id/paylists"
+          android:title="Playlists" />
+    <item android:id="@+id/transfer"
+          android:title="Transfer Playlists" />
+    <item android:id="@+id/tracks"
+          android:title="Tracks" />
+    <item android:id="@+id/about"
+          android:title="About" />
+    
+        
+</menu>

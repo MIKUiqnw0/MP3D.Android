@@ -1,0 +1,6 @@
+-   The Android Dev Kit does not support processing's Minim library
+    as it does not use the JavaSound api.
+-   The processing wiki warns that mixing Androids GUI components
+    is not recommended as the drawing mode is incompatible and may
+    cause rendering issues.
+    See http://wiki.processing.org/w/Android#Integrating_with_other_Android_code

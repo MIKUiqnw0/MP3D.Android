@@ -1,0 +1,96 @@
+06-20 13:27:44.501: W/ActivityThread(3979): Application com.example.mediaplayer3d is waiting for the debugger on port 8100...
+06-20 13:27:44.506: I/System.out(3979): Sending WAIT chunk
+06-20 13:27:45.061: I/dalvikvm(3979): Debugger is active
+06-20 13:27:45.106: I/System.out(3979): Debugger has connected
+06-20 13:27:45.106: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:45.331: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:45.531: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:45.741: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:45.941: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:46.141: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:46.341: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:46.541: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:46.741: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:46.941: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:47.141: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:47.341: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:47.541: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:47.741: I/System.out(3979): waiting for debugger to settle...
+06-20 13:27:47.946: I/System.out(3979): debugger has settled (1401)
+06-20 13:27:48.081: I/melody.mediaplayer(3979): externalMediaCheck checking for external storage...
+06-20 13:27:48.081: I/melody.mediaplayer(3979): externalMediaCheck found external storage.
+06-20 13:27:48.336: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:27:48.626: D/libEGL(3979): loaded /system/lib/egl/libEGL_mali.so
+06-20 13:27:48.646: D/libEGL(3979): loaded /system/lib/egl/libGLESv1_CM_mali.so
+06-20 13:27:48.646: D/libEGL(3979): loaded /system/lib/egl/libGLESv2_mali.so
+06-20 13:27:48.656: D/(3979): Device driver API match
+06-20 13:27:48.656: D/(3979): Device driver API version: 10
+06-20 13:27:48.656: D/(3979): User space API version: 10 
+06-20 13:27:48.661: D/(3979): mali: REVISION=Linux-r2p4-02rel0 BUILD_DATE=Thu Oct 25 08:43:05 KST 2012 
+06-20 13:27:48.696: D/OpenGLRenderer(3979): Enabling debug mode 0
+06-20 13:27:50.216: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:27:50.266: D/AbsListView(3979): Get MotionRecognitionManager
+06-20 13:28:16.551: W/InputEventReceiver(3979): Attempted to finish an input event but the input event receiver has already been disposed.
+06-20 13:28:25.451: I/melody.mediaplayer(3979): Stop button pressed
+06-20 13:28:26.796: I/melody.mediaplayer(3979): Pause button pressed
+06-20 13:28:27.051: I/melody.mediaplayer(3979): Play button pressed
+06-20 13:28:32.461: I/melody.mediaplayer(3979): User selected item: 2131230731
+06-20 13:28:34.741: D/dalvikvm(3979): GC_CONCURRENT freed 120K, 13% free 9666K/11015K, paused 14ms+3ms, total 40ms
+06-20 13:28:35.831: I/melody.mediaplayer(3979): User selected item: 2131230732
+06-20 13:28:43.566: I/melody.mediaplayer(3979): User selected item: 2131230728
+06-20 13:28:43.566: I/melody.mediaplayer(3979): Rechecking external storage...
+06-20 13:28:43.571: I/melody.mediaplayer(3979): externalMediaCheck checking for external storage...
+06-20 13:28:43.571: I/melody.mediaplayer(3979): externalMediaCheck found external storage.
+06-20 13:28:43.571: I/melody.mediaplayer(3979): External storage still valid
+06-20 13:28:43.581: W/melody.mediaplayer(3979): Blocking method 'wait()' called in FileDialog by waitOnFile
+06-20 13:28:43.686: D/AbsListView(3979): Get MotionRecognitionManager
+06-20 13:28:43.796: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:28:43.806: I/melody.mediaplayer(3979): File browser displayed
+06-20 13:32:09.049: I/melody.mediaplayer(3979): Rechecking external storage...
+06-20 13:32:09.049: I/melody.mediaplayer(3979): externalMediaCheck checking for external storage...
+06-20 13:32:09.054: I/melody.mediaplayer(3979): externalMediaCheck found external storage.
+06-20 13:32:09.054: I/melody.mediaplayer(3979): External storage still valid
+06-20 13:32:09.099: D/AbsListView(3979): Get MotionRecognitionManager
+06-20 13:32:09.234: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:32:09.244: I/melody.mediaplayer(3979): File browser displayed
+06-20 13:32:09.259: I/Choreographer(3979): Skipped 11565 frames!  The application may be doing too much work on its main thread.
+06-20 13:32:11.914: I/melody.mediaplayer(3979): Back button on FileDialog pressed
+06-20 13:32:11.914: I/melody.mediaplayer(3979): Rechecking external storage...
+06-20 13:32:11.914: I/melody.mediaplayer(3979): externalMediaCheck checking for external storage...
+06-20 13:32:11.919: I/melody.mediaplayer(3979): externalMediaCheck found external storage.
+06-20 13:32:11.919: I/melody.mediaplayer(3979): External storage still valid
+06-20 13:32:11.944: D/AbsListView(3979): Get MotionRecognitionManager
+06-20 13:32:12.034: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:32:12.044: I/melody.mediaplayer(3979): File browser displayed
+06-20 13:32:14.319: I/melody.mediaplayer(3979): Rechecking external storage...
+06-20 13:32:14.319: I/melody.mediaplayer(3979): externalMediaCheck checking for external storage...
+06-20 13:32:14.324: I/melody.mediaplayer(3979): externalMediaCheck found external storage.
+06-20 13:32:14.324: I/melody.mediaplayer(3979): External storage still valid
+06-20 13:32:14.359: D/AbsListView(3979): Get MotionRecognitionManager
+06-20 13:32:14.609: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:32:14.634: I/melody.mediaplayer(3979): File browser displayed
+06-20 13:32:14.714: D/dalvikvm(3979): GC_CONCURRENT freed 195K, 13% free 9918K/11399K, paused 17ms+16ms, total 116ms
+06-20 13:32:14.774: D/AbsListView(3979): [unregisterDoubleTapMotionListener]
+06-20 13:32:14.789: I/MotionRecognitionManager(3979):   .unregisterListener : / listener count = 0->0, ubvf 9budiwrd5ordgfl5BakTrklMrfo$,@,*:88)d8
+06-20 13:32:17.409: I/melody.mediaplayer(3979): waitOnFile continued
+06-20 13:32:17.409: I/melody.mediaplayer(3979): waitOnFile returned /storage/sdcard0/Notifications/hangout_dingtone.m4a
+06-20 13:32:17.609: E/SpannableStringBuilder(3979): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+06-20 13:32:17.614: E/SpannableStringBuilder(3979): SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+06-20 13:32:31.829: I/melody.mediaplayer(3979): User selected item: 2131230728
+06-20 13:32:31.829: I/melody.mediaplayer(3979): Rechecking external storage...
+06-20 13:32:31.829: I/melody.mediaplayer(3979): externalMediaCheck checking for external storage...
+06-20 13:32:31.834: I/melody.mediaplayer(3979): externalMediaCheck found external storage.
+06-20 13:32:31.834: I/melody.mediaplayer(3979): External storage still valid
+06-20 13:32:31.839: W/melody.mediaplayer(3979): Blocking method 'wait()' called in FileDialog by waitOnFile
+06-20 13:32:31.869: D/AbsListView(3979): Get MotionRecognitionManager
+06-20 13:32:31.959: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:32:31.969: I/melody.mediaplayer(3979): File browser displayed
+06-20 13:32:35.384: I/melody.mediaplayer(3979): Rechecking external storage...
+06-20 13:32:35.384: I/melody.mediaplayer(3979): externalMediaCheck checking for external storage...
+06-20 13:32:35.389: I/melody.mediaplayer(3979): externalMediaCheck found external storage.
+06-20 13:32:35.389: I/melody.mediaplayer(3979): External storage still valid
+06-20 13:32:35.429: D/AbsListView(3979): Get MotionRecognitionManager
+06-20 13:32:35.534: W/ResourceType(3979): Failure getting entry for 0x010802c1 (t=7 e=705) in package 0 (error -75)
+06-20 13:32:35.544: I/melody.mediaplayer(3979): File browser displayed
+06-20 13:32:37.424: I/melody.mediaplayer(3979): waitOnFile continued
+06-20 13:32:37.424: I/melody.mediaplayer(3979): waitOnFile returned /storage/sdcard0/Download/images.jpeg

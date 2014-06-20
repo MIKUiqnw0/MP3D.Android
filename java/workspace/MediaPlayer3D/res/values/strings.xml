@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaPlayer3D</string>
+    <string name="stop_button">Stop</string>
+    <string name="play_button">Play</string>
+    <string name="pause_button">Pause</string>
+    <string name="browse_button">Browse</string>
+
+</resources>
